@@ -24,7 +24,7 @@ Este é um projeto simples de simulação de votação, desenvolvido em **JavaSc
 - JavaScript 
 
 
-# 🔗 Veja mais conteúdos:
+## 🔗 Veja mais conteúdos:
 
 - 🎥 YouTube: Programador da Silva : https://www.youtube.com/@ProgramadordaSilva
 - 💼 LinkedIn: Rafael Silva : https://www.linkedin.com/in/rafaelsantana27/
